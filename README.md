@@ -1,8 +1,8 @@
-"# CSCI-2530" 
-# CSCI-2530
-# Background Information & Purpose
-This repository represents the coursework (programming assigments) that I have completed throughout CSCI 2530.
-This repository includes several folders, which are intended to showcase basic fundamental programming concepts along with
-my familiarity of common data structures, memory control, and other algorithms.
+# VideoPlayerCSharp
+VideoPlayerCSharp is a repository dedicated to a very basic implementation of the AxWindowsMediaPlayer control that
+can be found in the Windows Media Player SDK. As implicited by the repository name, this is a video player
+that plays a sample video.
 
-All coursework is completed in C++ using the GNU Compiler.
+I do not own the rights to the video used in this application. It is used for educational purposes only
+as I attempt to understand the usage of the Windows Media Player SDK. You can run the software by 
+launching the "VideoPlayer.exe" file.
